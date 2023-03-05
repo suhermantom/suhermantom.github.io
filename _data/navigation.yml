@@ -51,7 +51,7 @@ header:
       # @end locale config
     url: /mechanicaleng.html
 
-      - titles:
+  - titles:
       # @start locale config
       en      : &EN       EnvEng
       en-GB   : *EN
@@ -77,7 +77,7 @@ header:
       # @end locale config
     url: /environmentaleng.html
      
-        - titles:
+  - titles:
       # @start locale config
       en      : &EN       ML
       en-GB   : *EN
